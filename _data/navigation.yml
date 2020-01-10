@@ -14,7 +14,7 @@ production_url: https://ucsb-teaching-cs.github.io/
 # they come from, / for main site, and /f18, /s19, etc for child sites.
 
 home:
-   title: UCSB CS190J F19
+   title: UCSB CS190J W20, Mirza
    url: /
    baseurl: /
 
@@ -27,16 +27,16 @@ main_dropdown:
        url: /resources_list/
 
 offerings:
-   title: F19
+   title: W20
    url: /	
-   baseurl: /f19
+   baseurl: /w20
    items:
+      - title: W20
+        url: /
+        baseurl: /w20
       - title: F19
         url: /
         baseurl: /f19
-      - title: S19
-        url: /
-        baseurl: /s19
 
 offering_links:
   - title: Hwk
