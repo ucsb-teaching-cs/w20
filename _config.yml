@@ -28,7 +28,7 @@ cal_dates: >
   {"label":"First Day of Instruction", "date":"2020-01-06" },
   {"label":"MLK Jr. Day", "date":"2020-01-20" , "holiday":true },
   {"label":"President's Day", "date":"2020-02-17" , "holiday":true },
-  {"label":"No lecture: Professor attending SIGCSE Conference", "date":"2020-03-12" , "holiday":true },
+  {"label":"No lecture: Professor attending SIGCSE Conference", "date":"2020-03-13" , "holiday":true },
   {"label":"Drop deadline (no W grade)","date":"2020-02-03" },
   {"label":"Instruction Ends", "date":"2020-03-13" },
 
