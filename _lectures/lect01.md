@@ -24,7 +24,7 @@ Expectations:
 # Graded components
 * Tutoring for your specific course (40%) 
 * 190J specific assignments and homeworks(60%)
-  * Projects (2): 40%  
+  * Projects (3): 40%  
   * Homeworks (3 - 6): 20% 
   CS190J hwks are available on the course website, course specific hwks will be given by the instructor
   
