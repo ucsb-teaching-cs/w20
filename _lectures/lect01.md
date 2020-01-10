@@ -42,11 +42,11 @@ For more information please read the syllabus!
 
 # Review [H00](/hwk/h00/)
 
-Bios and photos to share with students. For more information see [h00 writeup](https://ucsb-teaching-cs.github.io/f19/hwk/h00/)
+Bios and photos to share with students. For more information see [h00 writeup]({{site.url}}{{site.baseurl}}/hwk/h00/)
 
 # Some basic teaching tips
 
-* [Link to slides](https://docs.google.com/presentation/d/174MFcJV36IvCcjR5tB3TJEPJp6RWzbqitWmOcUVIF_Q/edit?usp=sharing)
+* [Link to slides](https://docs.google.com/presentation/d/16aD1ad42hNyrgtDFEAU0QmpzehKp-pa4cXh2Z8G3alw/edit?usp=sharing)
 * [Link to original slides and other excellent material from CS Teaching Tips](http://csteachingtips.org/)
 
 ## Tips
