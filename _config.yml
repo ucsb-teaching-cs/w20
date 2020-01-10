@@ -5,8 +5,8 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-teaching-cs.github.io 
-baseurl: "/w20"  
-github_url: https://github.com/ucsb-teaching-cs/w20
+baseurl: "/w20-mirza"  
+github_url: https://github.com/ucsb-teaching-cs/w20-mirza
 
 title: "UCSB Teaching CS"
 course: "CS190J"
