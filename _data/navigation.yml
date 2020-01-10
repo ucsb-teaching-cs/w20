@@ -29,11 +29,11 @@ main_dropdown:
 offerings:
    title: W20
    url: /	
-   baseurl: /w20
+   baseurl: /w20-mirza
    items:
-      - title: W20
+      - title: W20, Mirza
         url: /
-        baseurl: /w20
+        baseurl: /w20-mirza
       - title: F19
         url: /
         baseurl: /f19
