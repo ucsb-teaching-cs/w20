@@ -31,7 +31,6 @@ Expectations:
   
 # Projects
 * An observation of one-on-one tutoring by your supervising instructor: Schedule these observations with your course specific instructor in Week 4
-* Read a research paper on teaching and present a summary
 * Create an assignment / resource about a specific topic in the course you are tutoring for (powerpoint, educational video, written / lab assignment, etc. Be creative!)
     * This may be done solo or in pairs.
 * A final paper summarizing your learning in the course: Due on the last day of instruction

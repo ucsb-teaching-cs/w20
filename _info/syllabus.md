@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Fall 2019"
+title: "Syllabus"
 layout: handout
 ready: true
 ---
@@ -7,10 +7,10 @@ ready: true
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-teaching-cs.github.io/f19/>
-* **Instructor**: Richert Wang
+* **Course Web Site**: <{{site.url}}{{site.baseurl}}>
+* **Instructor**: Diba Mirza
 
-* **Lecture**: F 2:00-3:15pm HFH 1132, ATTENDANCE REQUIRED.
+* **Lecture**: F 3:30-4:45pm Phelps 3526, ATTENDANCE REQUIRED.
 * **Discussion Section**. 5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned. The actual time might not correspond to the one listed on GOLD. The time will be some combination of service during your courses discussion sections, and/or service during open labs hours. The open lab hours are shared across the four courses.
 
 
@@ -33,19 +33,20 @@ Students who successfully complete this course will earn 4 units towards their m
 Course grades will be calculated as follows.
 
 * 40%: Tutoring performance in your assigned course
-* 40%: Two projects (20% each) (one-on-one observations, end of term project)
+* 40%: Projects (one-on-one observations, end of term project)
 * 20%: Homework assignments (average of plenary, and course specific)
 
 ## Tutoring performance specific to your course
 
 As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, we expect you to be:
 
-* Responsive: As a tutor you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion
-* Reliable: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
-* Proactive and engaged: Observe the students in your lab sections and offer to assist them proactively. You must appear "available" to students during your hours and not immersed in your devices.
+* Responsive: As a ULA you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion (slack/Piazza/email)
+* Reliabile: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
+* Proactive: Observe the students in your lab sections and offer to assist them. You must appear “available” to students during your hours and not immersed in your devices.
 * Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
-* Helpful: Demonstrate and understanding of what it means to be helpful as a tutor. Say I don't know but seek help from the TA or instructor to make sure that the student received the help they need.
-* Ethical: You must follow good ethics in your ineteraction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
+* Helpful: Be respectful and try your best. Say I don’t know when you really don't but seek help from the TA or instructor to make sure that the student received the help they need. 
+* Ethical: You must follow good ethics in your interaction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
+* Academic Honesty: Report any cases of academic dishonesty to your instructor. Know the collaboration policies of assignments and the extent to which you can assist students on assignment. Any cases of academic dishonesty against the ULAs (if proved true) will bar you from being a ULA again.
 
 Your tutoring performance will be graded along the above dimensions based on observations made by the instructor. You may ask the instructor for feedback around Week 5 during their scheduled office hours or by setting up an appointment with them. This is optional. 
 
@@ -71,7 +72,7 @@ The course has three main components lectures, discussions and homeworks as desc
 
 # Attendance/Participation
 
-Attendance/participation at the weekly lecture sections, and assigned discussion/open hours sessions is required and  mandatory for students enrolled in CS190J. CS190J students should notify their supervising instructor if it is necessary to miss a lecture for an unavoidable reason (e.g. illness, legitimate conflict with academic activity, family emergency.)
+Attendance/participation at the weekly lecture sections, and assigned discussion/open hours sessions is required and  mandatory for students enrolled in CS190J. CS190J students should notify their supervising instructor and course-leads if it is necessary to miss a lecture for an unavoidable reason (e.g. illness, legitimate conflict with academic activity, family emergency.)
 
 # Homeworks/In-Class Activitites
 
