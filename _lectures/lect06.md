@@ -2,7 +2,7 @@
 num: "Lecture 6"
 desc: "Peer-led Debugging Session"
 ready: true
-date: 2019-11-08 14:00:00.00-8:00
+date: 2020-02-14 15:30:00.00-8:00
 ---
 
 # Lesson plan

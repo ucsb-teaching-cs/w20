@@ -2,7 +2,7 @@
 num: "Lecture 3"
 desc: "Practicing one on one explanations, CS Ed Research topics"
 ready: true
-date: 2019-10-11 14:00:00.00-8:00
+date: 2020-01-24 15:30:00.00-8:00
 ---
 
 # Homework H02

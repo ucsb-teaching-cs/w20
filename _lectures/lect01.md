@@ -2,20 +2,20 @@
 num: "Lecture 1"
 desc: "Orientation to the course"
 ready: true
-date: 2019-09-27 14:00:00.00-8:00
+date: 2020-01-10 15:30:00.00-8:00
 ---
 
-# Orientation for Tutors
+# Orientation for ULAs
 
-Expectations from tutors:
+Expectations:
 
-* Responsive: As a tutor you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion (slack/Piazza/email)
+* Responsive: As a ULA you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion (slack/Piazza/email)
 * Reliabile: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
 * Proactive: Observe the students in your lab sections and offer to assist them. You must appear “available” to students during your hours and not immersed in your devices.
 * Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
 * Helpful: Be respectful and try your best. Say I don’t know when you really don't but seek help from the TA or instructor to make sure that the student received the help they need. 
-* Ethical: You must follow good ethics in your ineteraction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
-
+* Ethical: You must follow good ethics in your interaction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
+* Academic Honesty: Report any cases of academic dishonesty to your instructor. Know the collaboration policies of assignments and the extent to which you can assist students on assignment. Any cases of academic dishonesty against the ULAs (if proved true) will bar you from being a ULA again.
 
 
 # About the course
@@ -26,11 +26,12 @@ Expectations from tutors:
 * Tutoring for your specific course (40%) 
 * 190J specific assignments and homeworks (including course specific hwks) (60%)
   * Projects (2): 40%  
-  * Homeworks (3 - 6 ): 20% 
+  * Homeworks (3 - 6): 20% 
   CS190J hwks are available on the course website, course specific hwks will be given by the instructor
   
 # Projects
 * An observation of one-on-one tutoring by your supervising instructor: Schedule these observations with your course specific instructor in Week 4
+* Read a research paper on teaching and present a summary
 * Create an assignment / resource about a specific topic in the course you are tutoring for (powerpoint, educational video, written / lab assignment, etc. Be creative!)
     * This may be done solo or in pairs.
 * A final paper summarizing your learning in the course: Due on the last day of instruction

@@ -2,7 +2,7 @@
 num: "Lecture 2"
 desc: "Scenes from tutoring"
 ready: true
-date: 2019-10-04 14:00:00.00-8:00
+date: 2020-01-17 15:30:00.00-8:00
 ---
 
 # Tutoring scenes

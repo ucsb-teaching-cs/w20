@@ -2,7 +2,7 @@
 num: "Lecture 7"
 desc: "Imposter Syndrome and Growth Mindset"
 ready: true
-date: 2019-11-15 14:00:00.00-8:00
+date: 2020-02-21 15:30:00.00-8:00
 ---
 
 ## Discuss Imposter Syndrome and Stereotype Threat
