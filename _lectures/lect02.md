@@ -31,7 +31,7 @@ Do's:
 
 * Various assignments related to preparation for being a better mentor, and learning about CS Education.
 
-# Review [H01](/hwk/h01/)
+# Review [H01]({{site.url}}{{site.baseurl}}/hwk/h01/)
 
 Reflect on your own tutoring, read and summarize a book chapter on how people learn!
 
