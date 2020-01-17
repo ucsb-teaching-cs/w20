@@ -1,30 +1,16 @@
 ---
 num: "Lecture 7"
-desc: "Imposter Syndrome and Growth Mindset"
+desc: "CS Ed Lightning talks"
 ready: true
 date: 2020-02-21 15:30:00.00-8:00
 ---
 
-## Discuss Imposter Syndrome and Stereotype Threat
-* Define and give examples of each
-* Discuss contributing factors  
-* Discuss strategies to combat imposter syndrome and stereotype threat
 
-## Growth Mindset and Self-Efficacy
-* What is growth mindset and why is it important?
-* How does the research support the idea of growth mindset?
-* What is self-efficacy and how is it related to mindset?
-* How can tutors promote a culture of growth mindset?
- - Discuss tutoring scenarios
+# Assignment description
 
-## Resources
-* [Slides](https://drive.google.com/file/d/1XFEuJfkmWItG955V3r207b73Z1s0jgOG/view?usp=sharing)
-* [Short interview with Carol Dweck](https://www.youtube.com/watch?v=wh0OS4MrN3E) 
-* [Talk by Carol Dweck on research about growth mindset](https://youtu.be/isHM1rEd3GE)
-* [Growth mindset tutoring scenarios](https://docs.google.com/document/d/14MqNXnNILXkrohM4LKmXUK85RJMK9snDnWHo5dlIotQ/edit#heading=h.btog3na1b458)
+Note: This is an in class activity that needs prior preparation. Refer to the instruction in [ic01](https://ucsb-teaching-cs.github.io/w19/hwk/ic01/) on how to structure your lightning talk.
 
-
-
+Students in group 1 will present, all students are expected to attend and ask questions.
 
 
 

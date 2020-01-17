@@ -1,35 +1,27 @@
 ---
 num: "Lecture 2"
-desc: "Scenes from tutoring"
+desc: "Imposter Syndrome and Growth Mindset"
 ready: true
 date: 2020-01-17 15:30:00.00-8:00
 ---
 
-# Tutoring scenes
+## Discuss Imposter Syndrome and Stereotype Threat
+* Define and give examples of each
+* Discuss contributing factors  
+* Discuss strategies to combat imposter syndrome and stereotype threat
 
-Link to code for in class activity: [Code for in class activity](https://docs.google.com/document/d/1VGUup9dlOFCYMw5rjWcMrDi_-6N195P1BKmAUEmrlBg/edit?usp=sharing)
+## Growth Mindset and Self-Efficacy
+* What is growth mindset and why is it important?
+* How does the research support the idea of growth mindset?
+* What is self-efficacy and how is it related to mindset?
+* How can tutors promote a culture of growth mindset?
+ - Discuss tutoring scenarios
 
-## Tips
-
-Dont's:
-
-* Don't take control of the students keyboard (without asking)
-* Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated) - M&A
-* Don't be condescending - D&T
-* Don't be afraid to say I don't know but let's find out.
-* Don't undermine the course, the lab, the instructor, your peers
-* Don't use terms that students don't know 
-
-Do's:
-
-* Keep your cool even if the student is anxious or beligerent - Mo&J
-* Keep the interaction and interersting
-* Refer to the lab write up and syllabus where appropriate 
-* Reflect on your tutoring/TA sessions
-
-# Homework
-
-* Various assignments related to preparation for being a better mentor, and learning about CS Education.
+## Resources
+* [Slides](https://drive.google.com/file/d/1XFEuJfkmWItG955V3r207b73Z1s0jgOG/view?usp=sharing)
+* [Short interview with Carol Dweck](https://www.youtube.com/watch?v=wh0OS4MrN3E) 
+* [Talk by Carol Dweck on research about growth mindset](https://youtu.be/isHM1rEd3GE)
+* [Growth mindset tutoring scenarios](https://docs.google.com/document/d/14MqNXnNILXkrohM4LKmXUK85RJMK9snDnWHo5dlIotQ/edit#heading=h.btog3na1b458)
 
 # Review [H01]({{site.url}}{{site.baseurl}}/hwk/h01/)
 
