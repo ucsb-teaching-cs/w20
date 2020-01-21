@@ -25,6 +25,11 @@ date: 2020-01-17 15:30:00.00-8:00
 
 # Review [H01]({{site.url}}{{site.baseurl}}/hwk/h01/)
 
-Reflect on your own tutoring, read and summarize a book chapter on how people learn!
+* Reflect on your own tutoring, read and summarize a book chapter on how people learn, and pick a research paper to read about CS Education.
+* There is a list of suggested papers [here](/w20-mirza/info/papers/).  
+   * Or you can find your own using the [ACM Digital Library](https://dl.acm.org) to look for papers in the list of educational conferences and journals in your domain.  
+   * Any paper that is "related work" to the ones in the list is acceptable (i.e. cited by, or cites).
+   * If you go further afield than that, please check in with your  instructor; send them a link to the paper in the Digital Library.  (The "ACM Ref") is a good way to cite it.
+* Please submit your work via gradescope
 
 
