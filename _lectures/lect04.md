@@ -1,16 +1,20 @@
 ---
 num: "Lecture 4"
-desc: "Assisting students with debugging"
+desc: "Peer Teaching"
 ready: true
 date: 2020-01-31 15:30:00.00-8:00
 ---
 
 ## Goal
-* Learn about different debugging techniques
-* Debugging tools: gdb
-* As a tutor you are not expected to debug student code for them, instead you want to guide students to use some of the debugging strategies that you would use if you were actually debugging the code.
 
-Matthew Dupree (former intern at GreenHills) gave a guest lecture on debugging. Slides of this talk can be found here: [Debugging Slides](https://cs.ucsb.edu/~richert/cs190j/CS190DebuggingPresentation.pdf)
+Practice teaching a technical topic with specific learning goals in mind.
+
+Prepare for the class by completing [hwk/h03.md](hwk/h03.md)
+
+* Take turns teaching your topic in pairs (pairs will be announnced in class) (20 mins)
+* "Student" completes the assessment questions that you designed. (5 mins)
+* Complete the reflection form (5 min)
+* Switch roles and repeat
 
 
 
