@@ -13,6 +13,7 @@ date: 2020-01-24 15:30:00.00-8:00
   - Choose a set of problems to solve inorder to teach the topic
   - Prepare your teaching material (suggestion is not to use slides), but use other visual aids. Incorcorporate the use of example problems as much as possible.
   - Prepare a short assessment for your student.
+  
 * H03: Shadow an experienced tutor 
   - Take notes based on the prompts provided in h03
   - Type your responses in the associated homework on gradescope
