@@ -15,6 +15,8 @@ date: 2020-02-14 15:30:00.00-8:00
 * Use of visualizations, explanations and other techniques when appropriate
 * Managing your time (rule of thumb is to keep your interaction under 10 minutes, although depends on the context)
 
+## Repo with Buggy code
+* Clone this repo with the [buggy student code](https://github.com/ucsb-cs190j-s19/buggycode-peer-review.git)
 ### Structure of the session
 
 Prior to the class we invite all tutors to submit the hardest questions they were asked so far related to concepts and code. Students submit buggy student-code prior to the class on Gradescope.
