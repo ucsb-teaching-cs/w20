@@ -12,20 +12,18 @@ Note: This is an in class activity that needs prior preparation. Refer to the in
 
 Students in group 1 will present, all students are expected to attend and ask questions.
 
-Sara Mandic
-Olivia Gillam
-Noemi Reiber
-Cindy Zhao
- 
-Eddie Zhang
-Johnson Ku
-Cindy Lu
-Alexis Cole
-
-Michael Zhang
-Leron Reznikov
-Roberto Gutierrez
-Heather Dinh
+* Sara Mandic
+* Olivia Gillam
+* Noemi Reiber
+* Cindy Zhao
+* Eddie Zhang
+* Johnson Ku
+* Cindy Lu
+* Alexis Cole
+* Michael Zhang
+* Leron Reznikov
+* Roberto Gutierrez
+* Heather Dinh
 
 
 
